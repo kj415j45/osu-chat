@@ -1,0 +1,16 @@
+{
+    "name": "kj415j45/osu-chat",
+    "description": "A cli chat tool base on osu! API v2",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kj415j45",
+            "email": "kj415j45@gmail.com"
+        }
+    ],
+    "require": {
+        "league/climate": "^3.4",
+        "kj415j45/osu-api-v2-php": "^1.1"
+    }
+}
